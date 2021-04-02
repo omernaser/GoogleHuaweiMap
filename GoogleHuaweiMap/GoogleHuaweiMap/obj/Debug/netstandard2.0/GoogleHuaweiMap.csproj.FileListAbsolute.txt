@@ -1,0 +1,12 @@
+d:\Users\o84154611\source\repos\GoogleHuaweiMap\GoogleHuaweiMap\GoogleHuaweiMap\bin\Debug\netstandard2.0\GoogleHuaweiMap.deps.json
+d:\Users\o84154611\source\repos\GoogleHuaweiMap\GoogleHuaweiMap\GoogleHuaweiMap\bin\Debug\netstandard2.0\GoogleHuaweiMap.dll
+d:\Users\o84154611\source\repos\GoogleHuaweiMap\GoogleHuaweiMap\GoogleHuaweiMap\bin\Debug\netstandard2.0\ref\GoogleHuaweiMap.dll
+d:\Users\o84154611\source\repos\GoogleHuaweiMap\GoogleHuaweiMap\GoogleHuaweiMap\bin\Debug\netstandard2.0\GoogleHuaweiMap.pdb
+d:\Users\o84154611\source\repos\GoogleHuaweiMap\GoogleHuaweiMap\GoogleHuaweiMap\obj\Debug\netstandard2.0\App.xaml.g.cs
+d:\Users\o84154611\source\repos\GoogleHuaweiMap\GoogleHuaweiMap\GoogleHuaweiMap\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+d:\Users\o84154611\source\repos\GoogleHuaweiMap\GoogleHuaweiMap\GoogleHuaweiMap\obj\Debug\netstandard2.0\GoogleHuaweiMap.AssemblyInfoInputs.cache
+d:\Users\o84154611\source\repos\GoogleHuaweiMap\GoogleHuaweiMap\GoogleHuaweiMap\obj\Debug\netstandard2.0\GoogleHuaweiMap.AssemblyInfo.cs
+d:\Users\o84154611\source\repos\GoogleHuaweiMap\GoogleHuaweiMap\GoogleHuaweiMap\obj\Debug\netstandard2.0\XamlC.stamp
+d:\Users\o84154611\source\repos\GoogleHuaweiMap\GoogleHuaweiMap\GoogleHuaweiMap\obj\Debug\netstandard2.0\GoogleHuaweiMap.dll
+d:\Users\o84154611\source\repos\GoogleHuaweiMap\GoogleHuaweiMap\GoogleHuaweiMap\obj\Debug\netstandard2.0\ref\GoogleHuaweiMap.dll
+d:\Users\o84154611\source\repos\GoogleHuaweiMap\GoogleHuaweiMap\GoogleHuaweiMap\obj\Debug\netstandard2.0\GoogleHuaweiMap.pdb
